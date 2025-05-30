@@ -1,5 +1,5 @@
 <x-layout>
-    <x-slot name="heading">
+    <x:slot:heading>
         Jobs Page
     </x-slot>
     <ul>
